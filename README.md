@@ -1,7 +1,7 @@
 <h1 align="center">
- <img src="https://github.com/erikdubois/peppermint-chadwm/blob/main/logo.svg">
+ <img src="https://github.com/erikdubois/popos-chadwm/blob/main/logo.png">
   <br />
-   PepperMint Linux Chadwm
+   PopOS Linux Chadwm
 </h1>
 
 # Chadwm is a fork from Dwm
